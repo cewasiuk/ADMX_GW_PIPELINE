@@ -1,0 +1,1 @@
+If 2018_05_19 has data, this should automatically fill with output data from the ipynb
